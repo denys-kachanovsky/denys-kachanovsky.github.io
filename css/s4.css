@@ -1,0 +1,43 @@
+#s4 {
+	background-color: #000000;
+	height: 100vh;
+	margin-top: 50px;
+
+}
+
+.work {
+	padding-top: 5em;
+}
+
+.workimg{
+	display: flex;
+	justify-content: center;
+
+}
+
+.workhead {
+	margin-top: -500px;
+}
+
+h2 {
+	font-weight: 900;
+	color: #F1254A;
+	font-size: 25em;
+	display: flex;
+
+}
+
+.quote {
+	margin-top: 15em;
+	max-width: 60%;
+	padding-bottom: 2em;
+	
+
+}
+
+.redquote {
+	color: #F1254A;
+	font-weight: 275;
+	font-size: 3em;
+
+}

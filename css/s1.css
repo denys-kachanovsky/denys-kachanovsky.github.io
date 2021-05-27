@@ -1,0 +1,41 @@
+
+
+#s1 .container {
+	position: relative;
+}
+
+.dscr-img {
+	width: 35%;
+	margin-top: -100px;
+	margin-left: auto;
+}
+
+.dscr-img img {
+	display: block;
+	width:100%;
+}
+
+.dscr-txt {
+	width: 60%;
+	font-size: 1.1rem;
+	line-height: 1.4;
+}
+
+.dscr-txt p {
+}
+
+@media screen and (orientation: portrait) and (max-width:767px) {
+
+	.dscr-img {
+		width: 100%;
+		max-width: 250px;
+		margin-left: auto;
+		margin-right: auto;
+	}	
+	.dscr-txt {
+		width: 100%;
+		margin: auto;
+		margin-top: 2em;
+		max-width: 500px;
+	}
+}

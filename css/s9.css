@@ -1,0 +1,38 @@
+#s9 {
+	background-color: #000;
+	margin-top: 5em;
+
+}
+
+.bottomeye {
+	display: flex;
+	justify-content: center;
+	padding-top: 7em;
+	padding-bottom: 7em;
+}
+
+.thanks {
+	padding-bottom: 2em;
+}
+
+.thanks h1 {
+	color: #F1254A;
+	display: flex;
+	justify-content: center;	
+	padding-bottom: 
+
+}
+
+.thanks p {
+	color: #fff;
+	display: flex;
+	justify-content: center;
+}
+
+.thanks a{
+	color: #F1254A;
+}
+
+.th {
+	padding-bottom: 1em;
+}

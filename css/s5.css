@@ -1,0 +1,69 @@
+#s5 {
+	background-color: #000000;
+	padding-top: 150px;
+
+}
+
+.block01 {
+	display: flex;
+	flex-direction: row;
+	margin-top: 5em;
+
+}
+
+.posterftnt {
+	font-size: 0,6em;
+	font-weight: 300;
+	padding-top: 1em;
+	color: #fff;
+
+
+}
+
+.txtblock01 {
+	padding-left: 20%;
+}
+
+.intro {
+	font-size: 26px;
+	line-height: 130%;
+	color: #fff;
+}
+
+.block02 {
+	display: flex;
+	flex-direction: row;
+	margin-top: 20em;
+
+}
+
+.covers {
+	display: flex;
+	flex-direction: row;
+
+}
+
+#dscr-txt01 {
+	color: #ffffff;
+
+}
+
+.block03 {
+	display: flex;
+	flex-direction: row;
+	margin-top: 20em;
+	margin-bottom: 10em;
+
+}
+
+.txtblock03 {
+	padding-left: 20%;
+	max-width:
+
+}
+
+.block04 {
+	padding-bottom: 10em;
+}
+
+

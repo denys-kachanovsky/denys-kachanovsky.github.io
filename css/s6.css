@@ -1,0 +1,55 @@
+#s6 {
+	padding: 0;
+	width: 100%;
+	position: relative;
+}
+
+#s6 .ibm img {
+	display: block;
+	width: 100%;
+}
+
+.intro02 {
+	padding-top: 3em;
+	max-width: 40%;
+	padding-left: 5%;
+}
+
+#intro02 {
+	color: #000000;
+}
+
+#ftntleft {
+	text-align: left;
+	width: 40%;
+}
+
+.block05 {
+	display: flex;
+	flex-direction: row;
+	padding-top: 8em;
+	justify-content: center;
+	align-items: center;
+}
+
+#dscr05 {
+	width: 80%;
+}
+
+
+.block06 {
+	padding-top: 8em;
+
+}
+
+.block07 {
+	padding-top: 8em;
+	display: flex;
+	flex-direction: row;
+	padding-bottom: 8em;
+}
+
+.rebus {
+	display: flex;
+	justify-content: flex-end;
+}

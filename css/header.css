@@ -1,0 +1,64 @@
+header {
+    background-color: #000;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    padding-top: 100px;
+}
+
+.paul,
+.subtitle {
+    margin: auto;
+}
+
+.paul img {
+    display: block;
+    max-width:100%;
+}
+
+.subtitle {
+    padding-left: 26%;
+    margin-top: 1em;
+}
+
+.subtitle > * {
+    max-width: 150px;
+}
+
+.subtitle h1 {
+    font-weight: 500;
+    line-height: 100%;
+}
+
+.subtitle p {
+    margin-top: 1em;
+    font-weight: 500;
+}
+
+.red {
+    color: #c00;
+}
+
+.paul {
+    position: relative;
+}
+
+.paul .eye {
+    background-color: #fff;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 25%;
+    line-height: 70%;
+}
+
+.eye .big {
+    fill: #960;
+}
+
+.eye .small {
+    fill: #000;
+}
+
+
